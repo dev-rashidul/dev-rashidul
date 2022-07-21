@@ -15,12 +15,13 @@ Skills :  HTML / CSS / Bootstrap / Tailwind / JS / MERN / FIGMA / XD / Photoshop
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: Email me on : rashidul.contact@gmail.com 
 
+![Profile views](https://gpvc.arturio.dev/dev-rashidul)  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-rashidul&show_icons=true&locale=en&layout=compact" alt="dev-rashidul" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-rashidul&show_icons=true&locale=en" alt="dev-rashidul" /></p>
 
-![Profile views](https://gpvc.arturio.dev/dev-rashidul)  
+
 
 
 
