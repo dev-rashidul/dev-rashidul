@@ -22,10 +22,6 @@ Skills :  HTML / CSS / Bootstrap / Tailwind / JS / MERN / FIGMA / XD / Photoshop
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-rashidul&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dev-rashidul)  
-
-![GitHub metrics](https://metrics.lecoq.io/dev-rashidul)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dev-rashidul)  
 
 ![Profile views](https://gpvc.arturio.dev/dev-rashidul)  
