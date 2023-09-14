@@ -10,8 +10,7 @@ Skills :  HTML / CSS / Bootstrap / Tailwind / JS / MERN / FIGMA / XD / Photoshop
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning MERN 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: Email me on : rashidul.contact@gmail.com
+- 💬 Ask me about Web Development
 
 
 ![Profile views](https://gpvc.arturio.dev/dev-rashidul)  
